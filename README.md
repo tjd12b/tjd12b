@@ -1,47 +1,77 @@
-TEMPLATE
+# 👋 Hi, I'm TJ Daly
 
-# Hi there, I'm [Your Name]! 👋
+🎓 BSc in Data Analytics 2025
+📊 Aspiring Data Analyst with experience in business and operational analytics
+📍 Based in London, open to entry-level data roles
 
-![Banner Image](your_banner_image_url_here)
+---
 
-## About Me 🚀
+## 💡 About Me
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I’m a data analyst with a background in **operations and sales**, now transitioning into analytics full-time.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+I enjoy turning messy data into clear insights that drive decisions—whether that’s improving inventory efficiency, reducing revenue loss, or identifying performance trends.
 
-## My Skills 🧠
+While I have a strong interest in **sports analytics**, I’m actively building experience across multiple domains including **retail, operations, and business analytics**.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+---
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+## 🧰 Skills & Tools
 
-## Featured Projects 💻
+* **Data Analysis:** Excel, SQL, Python (pandas)
+* **Data Visualization:** Tableau, Power BI
+* **Techniques:** Data cleaning, exploratory analysis, forecasting concepts
+* **Other:** Git, GitHub, data storytelling
 
-### [Project 1 Title](project_1_link)
+---
 
-![Project 1 Screenshot](project_1_screenshot_url)
+## 📊 Featured Project
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+### 🛒 Retail Inventory Optimization
 
-### [Project 2 Title](project_2_link)
+Analyzed inventory inefficiencies across a 10-store retail chain to identify causes of stockouts, overstocks, and lost revenue.
 
-![Project 2 Screenshot](project_2_screenshot_url)
+**Key impact:**
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+* Identified **$3,675 in lost sales** over 8 weeks
+* Found **44% of products experienced stockouts**
+* Delivered recommendations for **dynamic inventory forecasting**
 
-## Get in Touch 📬
+🔗 [View Project Repository](./retail-inventory-optimization)
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+---
 
+## ⚽ Current Focus
 
+I’m currently expanding my portfolio with projects in:
+
+* Sports analytics (performance & player data)
+* Sports betting models and probability analysis
+* Predictive modeling and forecasting
+
+---
+
+## 🚀 What I’m Working On
+
+* Building end-to-end data projects (Excel → Tableau → GitHub)
+* Strengthening SQL and Python skills
+* Creating interactive dashboards
+
+---
+
+## 📫 Get In Touch
+
+* LinkedIn: www.linkedin.com/in/tj-daly-145237109
+* Email: tjd12b@gmail.com
+
+---
+
+## 📁 Portfolio Goal
+
+My goal is to build a portfolio that demonstrates:
+
+* Strong analytical thinking
+* Business impact awareness
+* Clear data communication
+
+I’m actively seeking **entry-level Data Analyst roles** where I can apply these skills and continue learning.
