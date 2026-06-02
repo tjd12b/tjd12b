@@ -1,77 +1,75 @@
 # 👋 Hi, I'm TJ Daly
 
-🎓 BSc in Data Analytics 2025
-📊 Aspiring Data Analyst with experience in business and operational analytics
-📍 Based in London, open to entry-level data roles
+🎓 BSc in Data Analytics (2025)
+📊 Aspiring Data Analyst with experience in operations, business performance analysis, and data visualisation
+📍 Based in London | Open to Entry-Level Data Analyst Opportunities
 
 ---
 
 ## 💡 About Me
 
-I’m a data analyst with a background in **operations and sales**, now transitioning into analytics full-time.
+I’m a data analyst graduate with a background in operations analysis and sales leadership, combining business exerience with technical analytics skills to solve real-world problems.
 
-I enjoy turning messy data into clear insights that drive decisions—whether that’s improving inventory efficiency, reducing revenue loss, or identifying performance trends.
+My focus is on transforming raw data into actionable insights that improve decision-making, operational efficiency, customer experience, and business performance.
 
-While I have a strong interest in **sports analytics**, I’m actively building experience across multiple domains including **retail, operations, and business analytics**.
+Through portfolio projects, I have applied SQL, Tableau, BigQuery, Excel, and GitHub to analyse business data, build dashboards, and communicate recommendations to stakeholders.
 
 ---
 
 ## 🧰 Skills & Tools
 
-* **Data Analysis:** Excel, SQL, Python (pandas)
+* **Data Analysis:** SQL, Excel, Google BigQuery, Python (pandas)
 * **Data Visualization:** Tableau, Power BI
-* **Techniques:** Data cleaning, exploratory analysis, forecasting concepts
-* **Other:** Git, GitHub, data storytelling
+* **Analytics Techniques:** Funnel Analysis, Customer Segmentation, Inventory Analysis, Marketing Channel Analysis, KPI Reporting, Exploratory Data Analysis
+* **Other Tools:** Git, GitHub, Data Storytelling, Business Reporting
 
 ---
 
-## 📊 Featured Project
+## 📊 Featured Projects
 
 ### 🛒 Retail Inventory Optimization
 
-Analyzed inventory inefficiencies across a 10-store retail chain to identify causes of stockouts, overstocks, and lost revenue.
+Analyzed inventory performance across a 10-store retail operation to identify stockouts, overstocks, and revenue leakage.
 
-**Key impact:**
+**Key Outcomes:**
 
-* Identified **$3,675 in lost sales** over 8 weeks
-* Found **44% of products experienced stockouts**
-* Delivered recommendations for **dynamic inventory forecasting**
+* Identified **$3,675 in lost sales** in lost sales due to stockouts
+* Found **44% of products** experienced stockout events
+* Developed recommendations to improve inventory forecasting and replenishment
 
 🔗 [View Project Repository](./retail-inventory-optimization)
 
----
+### 🛍️ Ecommerce Funnel & Customer Behaviour Analysis
 
-## ⚽ Current Focus
+Analysed 700,000+ ecommerce users using SQL and Google BigQuery to evaluate customer behaviour, conversion performance, acquisition channel, and product revenue drivers.
 
-I’m currently expanding my portfolio with projects in:
+**Key Outcomes:**
 
-* Sports analytics (performance & player data)
-* Sports betting models and probability analysis
-* Predictive modeling and forecasting
+* Identifitied the largest conversion bottleneck within the ecommerce funnel
+* Found returning users converted **over 6x higher** than new users
+* Evaluated acquisition channel effectiveness and revenue contribution
+* Built interactive Tableau dashboards and business recommendations
 
----
-
-## 🚀 What I’m Working On
-
-* Building end-to-end data projects (Excel → Tableau → GitHub)
-* Strengthening SQL and Python skills
-* Creating interactive dashboards
+🔗 [View Project Repository](./ecommerce-funnel-analysis)
 
 ---
 
-## 📫 Get In Touch
+## 🚀 Current Focus
+
+* Building advanced SQL and Tableau projects
+* Expanding Python analytics skills
+* Developing business intelligence and dashboarding expertise
+* Exploring sports analytics and predictive modeling
+
+---
+
+## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/tj-daly-145237109
 * Email: tjd12b@gmail.com
 
 ---
 
-## 📁 Portfolio Goal
+## 🎯 Career Goal
 
-My goal is to build a portfolio that demonstrates:
-
-* Strong analytical thinking
-* Business impact awareness
-* Clear data communication
-
-I’m actively seeking **entry-level Data Analyst roles** where I can apply these skills and continue learning.
+I'm seeking entry-level Data Analyst opportunities where I can combine analytical thinking, business understanding, and technical skills to help organisations make data-driven decisions and improve performance.
