@@ -37,7 +37,7 @@ Analyzed inventory performance across a 10-store retail operation to identify st
 * Found **44% of products** experienced stockout events
 * Developed recommendations to improve inventory forecasting and replenishment
 
-🔗 [View Project Repository](/tjd12b/retail-inventory-optimization)
+🔗 [View Project Repository](https://github.com/tjd12b/retail-inventory-optimization)
 
 ### 🛍️ Ecommerce Funnel & Customer Behaviour Analysis
 
@@ -50,7 +50,7 @@ Analysed 700,000+ ecommerce users using SQL and Google BigQuery to evaluate cust
 * Evaluated acquisition channel effectiveness and revenue contribution
 * Built interactive Tableau dashboards and business recommendations
 
-🔗 [View Project Repository](/tjd12b/ecommerce-funnel-analysis)
+🔗 [View Project Repository](https://github.com/tjd12b/ecommerce-funnel-analysis)
 
 ---
 
